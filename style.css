@@ -81,11 +81,11 @@ p {
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #444;
+	color: rgb(22, 22, 22);
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #444; 
+	color: #0c75ee; 
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -134,6 +134,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.0em;
 	margin-bottom: -2px;
+	color: rgb(22, 22, 22);
 }
 
 .subDetails {
@@ -149,7 +150,7 @@ section:last-child {
 	column-count:2;
 	margin-bottom: 20px;
 	font-size: 1em;
-	color: #444;
+	color: rgb(22, 22, 22);
 }
 
 .keySkills ul li {
